@@ -1,0 +1,10 @@
+*.DS_Store*
+.DS_Store
+mat_files/*
+traces/*
+*.asv
+*.pdf
+*.log
+*.mat
+*.txt
+*.pcap
