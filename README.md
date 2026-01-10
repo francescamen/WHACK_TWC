@@ -1,6 +1,6 @@
 # WHACK: Adversarial Beamforming in MU-MIMO Through Compressed Feedback Poisoning
 
-This repository contains the code of an IEEE 802.11 emulator for the evaluation of the adversarial attack against MU-MIMO transmissions described in the paper [''WHACK: Adversarial Beamforming in MU-MIMO Through Compressed Feedback Poisoning''](https://ieeexplore.ieee.org/abstract/document/10670054). The main idea of the attack is that a malicious user can trigger wrong precoding through the transmission of an adversarial beamforming feedback during the channel sounding procedure that precedes any MU-MIMO transmission. 
+This repository contains the code of an IEEE 802.11 emulator for the evaluation of the adversarial attack against MU-MIMO transmissions described in the article [''WHACK: Adversarial Beamforming in MU-MIMO Through Compressed Feedback Poisoning''](https://ieeexplore.ieee.org/abstract/document/10670054). The main idea of the attack is that a malicious user can trigger wrong precoding through the transmission of an adversarial beamforming feedback during the channel sounding procedure that precedes any MU-MIMO transmission. 
 
 If you find the project useful and you use this code, please cite our article:
 ```
